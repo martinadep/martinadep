@@ -13,14 +13,14 @@
 ###
 
 <p align="center">
-  I am a Data Science Master’s student with a Computer Engineering background 
+  I am a <b>Data Science Master’s</b> student with a <b>Computer Engineering</b> background 
   <br>
-    and a particular interest in High-Performance Computing.
+    and a particular interest in <b>High-Performance Computing</b>.
   </br>
   <br>
-   My goal is to build efficient and scalable solutions, optimizing performance 
+   My goal is to build <i>efficient</i> and <i>scalable</i> solutions, optimizing performance 
    <br>
-   on large-scale data, towards a more sustainable development.🍃
+   on large-scale data, towards a more <b>sustainable</b> development.🍃
    </br>
   </br>
 </p>
