@@ -12,9 +12,16 @@
 
 ###
 
-<p align="center">I am a Data Science Master’s student with a Computer Engineering background and a particular interest in High-Performance Computing.
+<p align="center">
+  I am a Data Science Master’s student with a Computer Engineering background 
   <br>
-My goal is to build efficient and scalable solutions, optimizing performance on large-scale data, towards a more sustainable development.🍃
+    and a particular interest in High-Performance Computing.
+  </br>
+  <br>
+   My goal is to build efficient and scalable solutions, optimizing performance 
+   <br>
+   on large-scale data, towards a more sustainable development.🍃
+   </br>
   </br>
 </p>
 
