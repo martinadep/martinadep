@@ -13,9 +13,9 @@
 ###
 
 <p align="center">
-  I am a <b>Data Science Master’s</b> student with a <b>Computer Engineering</b> background 
+  I am a <b>Computer Science Master’s</b> student specialized in Data Science, 
   <br>
-    and a particular interest in <b>High-Performance Computing</b>.
+  with also a particular interest in <b>High-Performance Computing</b>.
   </br>
   <br>
    My goal is to build <i>efficient</i> and <i>scalable</i> solutions, optimizing performance 
