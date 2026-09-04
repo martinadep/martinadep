@@ -13,16 +13,11 @@
 ###
 
 <p align="center">
-  I am a <b>Computer Science Master’s</b> student specialized in Data Science, 
+  <b>Computer Science Master’s</b> student specialized in Data Science, 
   <br>
   with also a particular interest in <b>High-Performance Computing</b>.
   </br>
   <br>
-   My goal is to build <i>efficient</i> and <i>scalable</i> solutions, optimizing performance 
-   <br>
-   on large-scale data, towards a more <b>sustainable</b> development.🍃
-   </br>
-  </br>
 </p>
 
 ###
